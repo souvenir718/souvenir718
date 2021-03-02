@@ -1,8 +1,10 @@
 {
     "name": "souvenir718",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "description about souvenir718",
-    "bin": "./index.js",
+    "bin": {
+        "souvenir718": "index.js"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/souvenir718/souvenir718.git"
