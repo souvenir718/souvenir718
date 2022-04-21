@@ -26,12 +26,6 @@
 
 <br>
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=souvenir718&show_icons=true)
-
-<br/>
-
-
-
 <h3 align="center"> 👋 Contacts 👋  </h3>
 <p align="center">
   <a href="souvenir0718@gmail.com" target="_sub"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=souvenir0718@gmail.com"/></a>
