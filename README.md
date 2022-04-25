@@ -24,15 +24,54 @@
 <br>
 
 <h3 align="center">📊 Technology & Projects 📊</h3>
-
-|                       💻 **Technology**                       |                        🚀 **Projects**                        |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) | [![gm-tool](https://img.shields.io/static/v1?label=&message=2021~2022_GM-TOOL&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/gedge-platform/gm-tool) |
-| ![React-Native](https://img.shields.io/badge/ReactNative-0088cc?style=flat-square&logo=react&logoColor=white) | [![MAS(Mobility Assurance System)](https://img.shields.io/badge/Mobility_Assurance_System-green)](https://play.google.com/store/apps/details?id=com.innogrid.smartcity3) |
-| ![React-Native](https://img.shields.io/badge/ReactNative-0088cc?style=flat-square&logo=react&logoColor=white) | [![daily101](https://img.shields.io/static/v1?label=&message=2020_daily101&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/daily-101/daily-101-docs/blob/main/README.md) |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) | [![SuzyStar](https://img.shields.io/static/v1?label=&message=2020_SuzyStar&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://souvenir718.github.io/SuzyStar/) |
-
-
+<style>
+    table{
+        text-align: center;
+        width: 70%;
+    }
+</style>
+<center>
+<table>
+    <tbody>
+        <tr>
+	    	<th>💻 Technology</th>
+    	    <th>🚀 Projects</th>
+        </tr>
+        <tr>
+        	<td>
+                <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    		</td>
+            <td>
+	            <a href="https://github.com/gedge-platform/gm-tool"><img src="https://img.shields.io/static/v1?label=&message=2021~2022_GM-TOOL&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a>
+			</td>
+   		 </tr>
+        <tr>
+        	<td>
+                <img src="https://img.shields.io/badge/ReactNative-0088cc?style=flat-square&logo=react&logoColor=white"/>
+    		</td>
+            <td>
+	            <a href="https://play.google.com/store/apps/details?id=com.innogrid.smartcity3"><img src="https://img.shields.io/badge/Mobility_Assurance_System-green"/></a>
+			</td>
+   		 </tr>
+        <tr>
+        	<td>
+                <img src="https://img.shields.io/badge/ReactNative-0088cc?style=flat-square&logo=react&logoColor=white"/>
+    		</td>
+            <td>
+	            <a href="https://github.com/daily-101/daily-101-docs/blob/main/README.md"><img src="https://img.shields.io/static/v1?label=&message=2020_daily101&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a>
+			</td>
+   		 </tr>
+         <tr>
+        	<td>
+                <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    		</td>
+            <td>
+	            <a href="https://souvenir718.github.io/SuzyStar/"><img src="https://img.shields.io/static/v1?label=&message=2020_SuzyStar&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605"/></a>
+			</td>
+   		 </tr>
+	</tbody>
+</table>
+</center>
 
 <br/>
 
