@@ -24,6 +24,7 @@
 <br>
 
 <h3 align="center">📊 Technology & Projects 📊</h3>
+<center>
 
 |                       💻 **Technology**                       |                        🚀 **Projects**                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -31,7 +32,7 @@
 | ![React-Native](https://img.shields.io/badge/ReactNative-0088cc?style=flat-square&logo=react&logoColor=white) | [![MAS(Mobility Assurance System)](https://img.shields.io/badge/Mobility_Assurance_System-green)](https://play.google.com/store/apps/details?id=com.innogrid.smartcity3) |
 | ![React-Native](https://img.shields.io/badge/ReactNative-0088cc?style=flat-square&logo=react&logoColor=white) | [![daily101](https://img.shields.io/static/v1?label=&message=2020_daily101&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/daily-101/daily-101-docs/blob/main/README.md) |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) | [![SuzyStar](https://img.shields.io/static/v1?label=&message=2020_SuzyStar&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://souvenir718.github.io/SuzyStar/) |
-
+</center>
 
 
 <br/>
