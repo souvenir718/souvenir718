@@ -24,14 +24,8 @@
 <br>
 
 <h3 align="center">📊 Technology & Projects 📊</h3>
-<style>
-    table{
-        text-align: center;
-        width: 70%;
-    }
-</style>
 <center>
-<table>
+<table align="center">
     <tbody>
         <tr>
 	    	<th>💻 Technology</th>
