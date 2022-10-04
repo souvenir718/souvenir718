@@ -78,5 +78,6 @@
     <img src="https://img.shields.io/badge/npx souvenir718-cb3837?style=flat-square&logo=npm3&logoColor=white"/></a>&nbsp 
 </p>
 <br/>
+![](https://gh-hits.nomadcoders.workers.dev/view?username=souvenir718)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&fontSize=60&fontAlignY=70&fontAlign=80)
